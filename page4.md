@@ -1,7 +1,6 @@
 <h1> page 4 </h1>
-<ahref="https://www.google.com/search?q=beach&client=firefox-b-ab&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj-2tf7n43eAhWKT8AKHS4GDnMQ_AUIDigB&biw=1920&bih=939#imgrc=XLeO6pArZEQnMM:"
+<ahref="http://static.asiawebdirect.com/m/phuket/portals/phuket-com/homepage/island/naiharn-beach/pagePropertiesImage/naiharn-beach.jpg"
 title="View image source">
-<imgsrc="https://www.google.com/search?q=beach&client=firefox-b-ab&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj-2tf7n43eAhWKT8AKHS4GDnMQ_AUIDigB&biw=1920&bih=939#imgrc=XLeO6pArZEQnMM:"
+<imgsrc="http://static.asiawebdirect.com/m/phuket/portals/phuket-com/homepage/island/naiharn-beach/pagePropertiesImage/naiharn-beach.jpg"
 alt="beach">
 </a>
-
