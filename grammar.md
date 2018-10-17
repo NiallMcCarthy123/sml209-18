@@ -2,7 +2,7 @@
 <p>16<sup>th</sup> October</p>
 <img src=â€œhttps://content.phuket101.net/wp-content/uploads/bang-tao-beach-2.jpgâ€ alt=â€œbeachâ€>
 
-<dl> 
+<dl> <pstyle="color:red;"></p>
 <dt>glasses</dt>
 <dd> utensil used to help people with sight issues</dd>
 
@@ -12,4 +12,3 @@
  <dt>bookmark</dt>
 <dd> a utensil used to keep track of a page within a book</dd>
 </dl>
-<-p style=color:red;">
