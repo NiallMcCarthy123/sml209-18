@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
 title: Learn English Today
 description: Simple steps to learn english
-Github:
+github:
   grammar: grammar.html
   page3: vocabulary.html
   page4: page4.html
