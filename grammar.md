@@ -1,8 +1,10 @@
 <h1>Page 2</h1>
 <p>16<sup>th</sup> October</p>
-<img src=â€œhttps://content.phuket101.net/wp-content/uploads/bang-tao-beach-2.jpgâ€ alt=â€œbeachâ€>
+<!-- Comment: Notice the double quotes around the address of the image and the description -->
+<img src="https://content.phuket101.net/wp-content/uploads/bang-tao-beach-2.jpg" alt="Description of image here">
 
-<dl> <dl style="color:red;"></p>
+<dl style="color:red;"> 
+
 <dt>glasses</dt>
 <dd> utensil used to help people with sight issues</dd>
 
