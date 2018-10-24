@@ -1,8 +1,12 @@
 <h1>Grammar</h1>
 <p>16<sup>th</sup> October</p>
 <!-- Comment: Notice the double quotes around the address of the image and the description -->
-<img src="https://content.phuket101.net/wp-content/uploads/bang-tao-beach-2.jpg" alt="Description of image here">
+<p>
+<img class="imgLeft" src="https://content.phuket101.net/wp-content/uploads/bang-tao-beach-2.jpg" alt="Description of image here">
 
+
+TEST
+</p>
 <dl style="color:red;"> 
 
 <dt>glasses</dt>
