@@ -10,6 +10,6 @@
   </tr>
   <tr>
     <td>Where is the train station?</td>
-    <td>Wo is den Bahnhof?</td>
+    <td>Wo ist den Bahnhof?</td>
   </tr>
 </table>
