@@ -10,8 +10,7 @@ Some beaches have man-made infrastructure, such as lifeguard posts, changing roo
 Beaches typically occur in areas along the coast where wave or current action deposits and reworks sediments. 
 </p>
 
-TEST
-</p>
+
 <dl style="color:red;"> 
 
 <dt>glasses</dt>
