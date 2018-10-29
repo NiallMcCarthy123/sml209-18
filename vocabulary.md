@@ -26,17 +26,4 @@
  
  
  
- <table>
-  <tr>
-    <th>English</th>
-    <th>German</th>
-  </tr>
-  <tr>
-    <td>The dog</td>
-    <td>Der Hund</td>
-  </tr>
-  <tr>
-    <td>A flat/apartment</td>
-    <td>Die Wohnung</td>
-  </tr>
-</table>
+ 
