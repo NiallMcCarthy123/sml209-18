@@ -21,7 +21,22 @@
     <td>Der Jung</td>
     <td>Die Stadt</td>
     <td>Das Mädchen</td>
-  </tr>
-  
-  
+  </tr> 
  </table>
+ 
+ 
+ 
+ <table>
+  <tr>
+    <th>English</th>
+    <th>German</th>
+  </tr>
+  <tr>
+    <td>The dog</td>
+    <td>Der Hund</td>
+  </tr>
+  <tr>
+    <td>A flat/apartment</td>
+    <td>Die Wohnung</td>
+  </tr>
+</table>
