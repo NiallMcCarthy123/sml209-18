@@ -1,7 +1,7 @@
 <h1>Welcome</h1>
 <p>This is my page for SML209-18</p>
 
-<h1> My name is Niall and I am from London. I am studying German and have lived in London my whole life.</h1>
+<p> My name is Niall and I am from London. I am studying German and have lived in London my whole life.</p>
   
   <ul>
   <li>attend lectures.</li>
