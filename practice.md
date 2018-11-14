@@ -6,5 +6,5 @@
 <p>
   <a style="float:right;"href=[useful phrases].html">Go to useful phrases</a>
   
-  </p>
-  <div style="clear:both;"> </div>                                
+ </p>
+ <div style="clear:both;"> </div>                                
