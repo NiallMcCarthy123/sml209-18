@@ -13,3 +13,5 @@
     <td>Wo ist den Bahnhof?</td>
   </tr>
 </table>
+
+<a href="practice.html" style="float:right;">Practice</a>
