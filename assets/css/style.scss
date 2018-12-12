@@ -2,6 +2,11 @@
 ---
 @import "{{  site.theme}}";
 
+@import url('https://fonts.googleapis.com/css?family=Domine');
+
+Body; font-family: 'Domine', serif;
+
+
 .imgLeft  {
   float:left;
   margin-right:10px;
