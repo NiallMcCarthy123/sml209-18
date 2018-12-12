@@ -15,6 +15,10 @@
   </tr>
     <td> what is the best way to the airport?
     <td> Wie kommt mann am besten zum Flughafen?
+      </tr>
+      </tr>
+      <td> Which restaurant do you recommend?
+      <td> Was fur ein Restaurant empfehlen sie?
 </table>
 
 <a href="practice.html" style="float:right;">Practice</a>
