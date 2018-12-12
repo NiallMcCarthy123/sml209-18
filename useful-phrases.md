@@ -18,7 +18,10 @@
       </tr>
       </tr>
       <td> Which restaurant do you recommend?
-      <td> Was fur ein Restaurant empfehlen sie?
+      <td> Was fur ein Restaurant empfehlen sie
+        </tr>
+        </tr>
+        <td> 
 </table>
 
 <a href="practice.html" style="float:right;">Practice</a>
