@@ -17,7 +17,7 @@
   
   <tr>
     <td> what is the best way to the airport?</td>
-    <td> Wie kommt mann am besten zum Flughafen?</td>
+    <td> Wie kommt man am besten zum Flughafen?</td>
       </tr>
   
   <tr>
