@@ -23,44 +23,49 @@
     <td>Das Mädchen</td>
   </tr> 
  </table>
+
+<h2>Info about the next table</h2>
+
+<table>
  <tr>
   <th> German</th>
   <th> English</th>
   </tr>
-  </tr>
+  <tr>
   <td> Der Hund </td> 
   <td> The dog  </td>
   </tr>
-  </tr>
+  <tr>
   <td>Der Zug   </td>
   <td>The train </td>
   </tr>
-  </tr>
+  <tr>
   <td> Der Jung </td>
   <td> The boy  </td>
   </tr>
-  </tr>
+  <tr>
   <td> Die Wohnung</td>
   <td> The flat  </td>
   </tr> 
-  </tr>
+  <tr>
   <td> Die Haare</td>
   <td> The hair</td>
    </tr>
-   </tr>
+   <tr>
   <td>Die Stadt</td>
   <td> The city </td>
    </tr>
-   </tr>
+   <tr>
   <td> Das Auto</td>
   <td> The car </td>
    </tr>
-   </tr>
+   <tr>
   <td> Das Zimmer</td>
   <td> The room </td>
    </tr> 
-   </tr>
+   <tr>
    <td> Das Madchen</td>
    <td> The girl </td>
+</table>
  
  
