@@ -21,7 +21,8 @@
       <td> Was fur ein Restaurant empfehlen sie
         </tr>
         </tr>
-        <td> 
+        <td> I am sorry
+        <td> Es tut mir leid
 </table>
 
 <a href="practice.html" style="float:right;">Practice</a>
