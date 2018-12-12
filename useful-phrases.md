@@ -22,7 +22,7 @@
   
   <tr>
       <td> Which restaurant do you recommend?</td>
-      <td> Was fur ein Restaurant empfehlen sie</td>
+      <td> Welches Restaurant empfehlen sie?</td>
         </tr>
   
   <tr>
