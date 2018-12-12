@@ -16,11 +16,11 @@ Beaches typically occur in areas along the coast where wave or current action de
 <dt>word order</dt>
 <dd> The order in which types of words appear in a sentence. In German the order is subject verb object</dd>
 
-<dt>german</dt>
-<dd> a language spoken in germany</dd>
+<dt>Gender</dt>
+<dd> There are three genders in German. They are masculine, feminine and neuter. When a word is masculine, we use the word "der" before the word for definite articles or "ein" before a masculine words with an indefinite article. For feminine words, we place the word "die" for definite articles and "eine for indefinite articles. Finally for neuter words, we use the word "das" before neuter words that are a definite article and "ein" before indefinite articles.</dd>
 
- <dt>bookmark</dt>
-<dd> a utensil used to keep track of a page within a book</dd>
+ <dt>case</dt>
+<dd> A term used to describe an objects role in a sentence. For example, the accusative case means something is the object. In German in the accusative, "der" on masculine definite article words changes to "den". For indefinite words in masculine and accusative, it is "einen" instead of "ein"</dd>
 </dl>
 
 
