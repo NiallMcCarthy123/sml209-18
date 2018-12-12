@@ -1,4 +1,4 @@
-<h1>Grammar</h1>
+<h1> German Grammar</h1>
 <p>16<sup>th</sup> October</p>
 <!-- Comment: Notice the double quotes around the address of the image and the description -->
 <p>
@@ -13,8 +13,8 @@ Beaches typically occur in areas along the coast where wave or current action de
 
 <dl style="color:red;"> 
 
-<dt>glasses</dt>
-<dd> utensil used to help people with sight issues</dd>
+<dt>word order</dt>
+<dd> The order in which types of words appear in a sentence. In German the order is subject verb object</dd>
 
 <dt>german</dt>
 <dd> a language spoken in germany</dd>
