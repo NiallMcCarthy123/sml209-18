@@ -10,7 +10,7 @@
   </tr>
   <tr>
     <td>Where is the train station?</td>
-    <td>Wo ist den Bahnhof?</td>
+    <td>Wo liegt der Bahnhof?</td>
   </tr>
   </tr>
     <td> what is the best way to the airport?
