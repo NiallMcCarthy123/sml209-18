@@ -2,8 +2,7 @@
 <p>16<sup>th</sup> October</p>
 <!-- Comment: Notice the double quotes around the address of the image and the description -->
 <p>
-<img class="imgLeft" src=https://www.bing.com/images/search?view=detailV2&ccid=NeWkmGrG&id=B98C22879A48AC0F36EE22D5080948D3F0705124&thid=OIP.zbcJliP7R3yU73MnA3OdgQHaFj&mediaurl=http%3a%2f%2f4.bp.blogspot.com%2f_198-q3xQzto%2fSw6Mb2PEAMI%2fAAAAAAAAAdc%2fu19uDBy3L0U%2fs1600%2fgerman-flag.jpg&exph=1200&expw=1600&q=german+flag&simid=608003639148087118&selectedIndex=0&ajaxhist=0. 
-</p>
+<img class="imgLeft" src=
 
 
 <dl style="color:red;"> 
