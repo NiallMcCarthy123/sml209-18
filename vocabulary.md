@@ -24,6 +24,7 @@
   </tr> 
  </table>
 
+
 <h2>Info about the next table</h2>
 
 <table>
