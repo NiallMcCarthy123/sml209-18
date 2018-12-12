@@ -25,7 +25,7 @@
  </table>
 
 
-<h2>Info about the next table</h2>
+<h2> Vocabulary Translations</h2>
 
 <table>
  <tr>
