@@ -12,6 +12,9 @@
     <td>Where is the train station?</td>
     <td>Wo ist den Bahnhof?</td>
   </tr>
+  </tr>
+    <td> what is the best way to the airport?
+    <td> Wie kommt mann am besten zum Flughafen?
 </table>
 
 <a href="practice.html" style="float:right;">Practice</a>
