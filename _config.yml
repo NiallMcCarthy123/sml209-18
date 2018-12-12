@@ -1,8 +1,8 @@
 theme: jekyll-theme-cayman
-title: Learn English Today
-description: Simple steps to learn english
+title: Learn German Today
+description: Simple steps to learn German
 github:
   grammar: grammar.html
   page3: vocabulary.html
   page4: useful-phrases.html
-  page5: page5.html
+  page5: useful links.html
