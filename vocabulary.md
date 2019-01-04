@@ -12,7 +12,7 @@
     <td>Das Auto</td>
   </tr>
   <tr>
-    <td>Der Zug</td>
+    <td>Der Bahnhof</td>
     <td>Die Haare</td>
     <td>Das Zimmer</td>
   </tr>
@@ -37,8 +37,8 @@
   <td> The dog  </td>
   </tr>
   <tr>
-  <td>Der Zug   </td>
-  <td>The train </td>
+  <td>Der Bahnhof   </td>
+  <td>The train station </td>
   </tr>
   <tr>
   <td> Der Jung </td>
