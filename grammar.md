@@ -9,9 +9,7 @@
 
 <h1>word order</h1>
 
-<p> The order in which types of words appear in a sentence. In German the order is subject verb object. An example sentance is provided to illustrate this.</p> <h2>Sample Sentence</h2>
-
-<table>
+<p> The order in which types of words appear in a sentence. In German the order is subject verb object. An example sentance is provided to illustrate this.</p> <table>
   <tr>
     <th>German</th>
     <th>English</th>
