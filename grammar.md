@@ -9,7 +9,21 @@
 
 <h1>word order</h1>
 
-<p> The order in which types of words appear in a sentence. In German the order is subject verb object</p>
+<p> The order in which types of words appear in a sentence. In German the order is subject verb object. An example sentance is provided to illustrate this.</p> <h2>Sample Sentence</h2>
+
+<table>
+  <tr>
+    <th>German</th>
+    <th>English</th>
+    <th>Explanation</th>
+  </tr>
+  <tr>
+    <td> Der Mann isst das Essen</td>
+    <td>The man eats the food</td>
+    <td>Der Mann means the man and he is eating the food so the subject comes first. Isst is the third person form of the verb to eat showing the verb comes second. Finally Das Essen meaning the food comes last as it is the object of the sentence</td>
+  </tr>
+  </
+  
 
 
 <h1>Gender</h1>
