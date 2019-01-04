@@ -1,4 +1,4 @@
-<h1>Welcome</h1>
+<h1>Willkommen (Welcome)</h1>
 <img style="width:70%;border:1px solid blue;" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png">
 <h2> My Website For Learners Of German </h2>
 <p>This is my page for SML209-18</p>
