@@ -65,6 +65,7 @@
    <tr>
   <td> Das Zimmer</td>
   <td> The room </td>
+  
    </tr> 
    <tr>
    <td> Das Madchen</td>
