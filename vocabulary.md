@@ -29,7 +29,7 @@
 
 <h2> Vocabulary Translations</h2>
 
-
+<table>
  <tr>
   <th> German</th>
   <th> English</th>
@@ -65,11 +65,11 @@
    <tr>
   <td> Das Zimmer</td>
   <td> The room </td>
-  
    </tr> 
    <tr>
    <td> Das Madchen</td>
    <td> The girl </td>
+  </tr>
 </table>
  
  
