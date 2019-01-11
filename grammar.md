@@ -1,15 +1,10 @@
 <h1> German Grammar</h1>
-<p>16<sup>th</sup> October</p>
 <!-- Comment: Notice the double quotes around the address of the image and the description -->
-<p>
-<img class="imgLeft" src=
-
-
-<dl style="color:red;"> 
 
 <h1>word order</h1>
 
-<p> The order in which types of words appear in a sentence. In German the order is subject verb object. An example sentance is provided to illustrate this.</p> <table>
+<p> The order in which types of words appear in a sentence. In German the order is subject verb object. An example sentance is provided to illustrate this.</p>
+<table>
   <tr>
     <th>German</th>
     <th>English</th>
@@ -20,7 +15,7 @@
     <td>The man eats the food</td>
     <td>Der Mann means the man and he is eating the food so the subject comes first. Isst is the third person form of the verb to eat showing the verb comes second. Finally Das Essen meaning the food comes last as it is the object of the sentence</td>
   </tr>
-  </
+  </table>
   
 
 
@@ -33,6 +28,4 @@
  
  
 <p> A term used to describe an objects role in a sentence. For example, the accusative case means something is the object. In German in the accusative, "der" on masculine definite article words changes to "den". For indefinite words in masculine and accusative, it is "einen" instead of "ein"</dd>. For the accusative case for both feminine and neuter words it stays the same and the context and position of the word gives away whether it is a nominative or accusative neuter or feminine. If the word is at the start, it is usually nominative, except for in the passive, where the object becomes the subject. </p>
-</dl>
-
 
